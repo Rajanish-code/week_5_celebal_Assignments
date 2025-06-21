@@ -1,10 +1,6 @@
 {
 	"name": "Json1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "AdlsGen2LS",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"countryName": {
 				"type": "string"

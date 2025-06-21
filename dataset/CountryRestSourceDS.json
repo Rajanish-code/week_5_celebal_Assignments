@@ -1,10 +1,6 @@
 {
 	"name": "CountryRestSourceDS",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "RestCountriesLS",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"countryName": {
 				"type": "string"

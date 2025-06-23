@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "CountryDataFactroy"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"Database_1_sql_password": {
+			"value": ""
+		},
+		"Database_2_sql_copydatabase_password": {
+			"value": ""
+		},
+		"Database_1_sql_properties_typeProperties_server": {
+			"value": "serverpoc728.database.windows.net"
+		},
+		"Database_1_sql_properties_typeProperties_database": {
+			"value": "pocdatabase56"
+		},
+		"Database_1_sql_properties_typeProperties_userName": {
+			"value": "Rajanishku"
+		},
+		"Database_2_sql_copydatabase_properties_typeProperties_server": {
+			"value": "serverpoc728.database.windows.net"
+		},
+		"Database_2_sql_copydatabase_properties_typeProperties_database": {
+			"value": "Copydatabase"
+		},
+		"Database_2_sql_copydatabase_properties_typeProperties_userName": {
+			"value": "Rajanishku"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
